@@ -8,4 +8,6 @@ Usage: python main.py [-h] [-s] [-t] [-e]
 -t train neural network
 -e emulate best saved network
 
+
+
 ![](ai.gif)
